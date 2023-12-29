@@ -8,9 +8,9 @@
 
 ## Motivation
 
-Harpoon introduced hooks which allows users to customize behavior for specific
+Harpoon introduced events which allows users to customize behavior for specific
 needs, so I began adding some functionality I wanted to see on default harpoon,
-I tried to make it easy to add or remove extensions as I didn't wanted to have
+I tried to make it effortless to add or remove extensions as I didn't wanted to have
 many repositories for each extension.
 
 Currently this extension only allows you to highlight the current file you're in
@@ -60,7 +60,7 @@ require("harpoon_forge").setup({
 This repository was mainly created to make extensions that fit my needs,
 but I'm happy to accept suggestions of new extensions aswell as contributions.
 I would love someone to test wether or not this works on windows as I don't have
-an easy way to test it. Also I need to write tests
+a effortless way to test it. Also I need to write tests
 
 ## Contribution
 
